@@ -1,0 +1,15 @@
+mpsk-website/
+│
+├── index.html           (Home Page)
+├── about.html           (About School)
+├── admissions.html      (Admissions)
+├── principal.html       (Principal Message)
+├── disclosure.html      (Mandatory Disclosure)
+├── gallery.html         (Gallery)
+├── contact.html         (Contact)
+│
+├── css/
+│   └── style.css
+├── js/
+│   └── main.js
+└── images/              (banners, gallery, placeholder images)
